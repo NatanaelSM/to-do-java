@@ -53,7 +53,7 @@ The frontend was developed using **HTML, CSS, and JavaScript**, serving only as 
 ---
 
 ## 🗂 Conceptual Model
-
+![Conceptual](./readme_images/conceptual_managetask.png)
 ---
 
 ## 🗄 Logical Model
